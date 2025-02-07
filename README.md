@@ -1,5 +1,7 @@
 # Weather App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da51ae21-2b60-444f-9f50-0e04a76a894d/deploy-status)](https://app.netlify.com/sites/lilah-weather-app-final/deploys)
+
 A web app developed for the completion of the SheCodes Plus workshop using HTML, CSS and Vanilla JavaScript.
 
 <p align="center">
